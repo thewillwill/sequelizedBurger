@@ -1,0 +1,26 @@
+{
+  "name": "eat-burger",
+  "version": "1.0.0",
+  "description": "Eat-Burger is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewillwill/Eat-Burger.git"
+  },
+  "author": "William Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewillwill/Eat-Burger/issues"
+  },
+  "homepage": "https://github.com/thewillwill/Eat-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-method-override": "0.0.3",
+    "mysql": "^2.15.0"
+  }
+}
